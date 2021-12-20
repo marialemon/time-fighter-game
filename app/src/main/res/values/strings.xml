@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TFighter</string>
+    <string name="about_menu">More Information</string>
+    <string name="about_title">Time Fighter %1$s</string>
+    <string name="about_message">Created by María Núñez in RayWenderlich course</string>
+    <string name="tap_me">Tap me!</string>
+    <string name="start_game">Start game 🏁</string>
+    <string name="times_up">Times up! Your score was %1$d</string>
+    <string name="score">Your score: %1$d</string>
+    <string name="timer">Time left: %1$d</string>
+</resources>
